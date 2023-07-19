@@ -17,13 +17,13 @@ Flashy helps you learn new words by displaying flashcards with English and Frenc
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/your_username/flashy.git`
+`git clone https://github.com/Alisadaintanvir/flash-card-project.git`
 
 2. Install the required dependencies:
 `pip install pandas`
 
 3. Run the application:
-`python flashy.py`
+`python main.py`
 
 
 ## Usage
